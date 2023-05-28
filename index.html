@@ -692,19 +692,19 @@
 			localStorage.setItem('theme', 'dark');
 		} 
 		if(localStorage.getItem('theme') === 'dark') {
-			$('head').append('<link rel="stylesheet" id="dark-mode" type="text/css" href="assets/styles/style-dark.css" />');
+			$('head').append('<link rel="stylesheet" id="dark-mode" type="text/css" href="styles_dark.css" />');
 		} else {
-			$('head link[href="assets/styles/style-dark.css"]').remove();
+			$('head link[href="styles_dark.css"]').remove();
 		}
 
 		$('.light').click(function (){
 			localStorage.setItem('theme', 'light');
-			$('head link[href="assets/styles/style-dark.css"]').remove();
+			$('head link[href="styles_dark.css"]').remove();
 		});
 
 		$('.dark').click(function (){
 			localStorage.setItem('theme', 'dark');
-			$('head').append('<link rel="stylesheet" id="dark-mode" type="text/css" href="assets/styles/style-dark.css" />');
+			$('head').append('<link rel="stylesheet" id="dark-mode" type="text/css" href="styles_dark.css" />');
 		});
 
 		$('[data-toggle="tooltip"]').tooltip({
