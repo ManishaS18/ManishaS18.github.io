@@ -51,7 +51,7 @@ iframe {
 .form-control:focus, .textarea:focus, select:focus,
 .custom-select:focus {
   background-color: #23262B;
-  border-color: #33363D;
+  border-color: #ffffff;
   color: #AEB0B8;
 }
 
