@@ -404,6 +404,7 @@ iframe {
 
 .textarea {
   border-radius: 1.25rem;
+  border: 2px solid #060606;
   display: block;
   padding: 0.8125rem 1.1875rem;
   resize: none;
