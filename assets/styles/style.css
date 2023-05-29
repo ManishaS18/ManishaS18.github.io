@@ -899,7 +899,7 @@ button:focus {
     - Sections
 ----------------------------------------------------------------- */
 .box {
-  background-color: #fff;
+  background-color: #000000;
   border-radius: 20px;
   padding: 1.875rem;
   position: relative;
