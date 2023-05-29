@@ -451,14 +451,14 @@ iframe {
 }
 
 .with-errors {
-  color: #060606;
+  color: #ffffff;
 }
 
 .has-error input,
 .has-error textarea,
 .has-error input:focus,
 .has-error textarea:focus {
-  border-color: #050505;
+  border-color: #ffffff;
 }
 
 #validator-contact {
