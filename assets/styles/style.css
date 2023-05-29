@@ -464,6 +464,7 @@ iframe {
 
 #validator-contact {
   font-size: 0.875rem;
+  border: 2px solid #060606;
   margin-top: 1rem;
 }
 
