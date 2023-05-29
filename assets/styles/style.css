@@ -404,7 +404,7 @@ iframe {
 
 .textarea {
   border-radius: 1.25rem;
-  border: 2px solid #060606;
+  /* border: 2px solid #060606; */
   display: block;
   padding: 0.8125rem 1.1875rem;
   resize: none;
@@ -561,7 +561,7 @@ select option,
 .bs-tooltip-top .arrow::before,
 .bs-tooltip-auto[x-placement^="top"] .arrow::before {
   border-width: 0.3125rem 0.3125rem 0;
-  border-top-color: #000000;
+  /* border-top-color: #000000; */
 }
 
 .bs-tooltip-right .arrow::before,
@@ -902,7 +902,7 @@ button:focus {
 .box {
   background-color: #ffffff;
   border-radius: 20px;
-  border: 2px solid #060606;
+  border: 0.375rem solid #060606;
   padding: 1.875rem;
   position: relative;
 }
@@ -912,27 +912,27 @@ button:focus {
   }
 }
 .box__border {
-  border: 2px solid #000000;
+  border: 0.375rem solid #000000;
   border-radius: 20px;
 }
 @media only screen and (max-width: 580px) {
   .box__border {
     border-radius: 13.3333333333px;
-    border: 2px solid #060606;
+    border: 0.375rem solid #060606;
     padding: 1rem;
   }
 }
 
 @media only screen and (max-width: 991px) {
   .box-content {
-    border: 2px solid #060606;
+    border: 0.375rem solid #060606;
     border-radius: 0 0 20px 20px;
   }
 }
 @media only screen and (max-width: 580px) {
   .box-content {
     border-radius: 13.3333333333px;
-    border: 2px solid #060606;
+    border: 0.375rem solid #060606;
   }
 }
 
