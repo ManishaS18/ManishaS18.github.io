@@ -561,7 +561,7 @@ select option,
 .bs-tooltip-top .arrow::before,
 .bs-tooltip-auto[x-placement^="top"] .arrow::before {
   border-width: 0.3125rem 0.3125rem 0;
-  border-top-color: #5E6E80;
+  border-top-color: #000000;
 }
 
 .bs-tooltip-right .arrow::before,
@@ -691,7 +691,7 @@ button:focus {
   height: 4.8rem;
   margin-top: -2.4rem;
   margin-left: -2.4rem;
-  background-color: rgba(48, 76, 253, 0.7);
+  background-color: rgba(53, 1, 105, 0.7);
   animation-delay: -0.8s;
 }
 
@@ -718,6 +718,7 @@ button:focus {
 
 .header {
   display: flex;
+  border: 2px solid #060606;
   margin-bottom: 1.875rem;
 }
 .header > * {
