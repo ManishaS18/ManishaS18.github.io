@@ -295,14 +295,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #304CFD;
+  color: #330044;
   cursor: pointer;
   text-decoration: none;
   -webkit-text-decoration-skip: objects;
   transition: color 0.3s cubic-bezier(0.72, 0.16, 0.345, 0.875);
 }
 a:hover {
-  color: #304CFD;
+  color: #330044;
   outline: none;
   text-decoration: underline;
 }
@@ -492,14 +492,14 @@ textarea:invalid {
 }
 
 .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
-  border-color: #304CFD;
+  border-color: #330044;
 }
 .custom-control-input:not(:disabled):active ~ .custom-control-label::before {
   border-color: #fff;
   background-color: transparent;
 }
 .custom-control-input:checked ~ .custom-control-label::before {
-  border-color: #304CFD;
+  border-color: #330044;
   background-color: #304CFD;
 }
 
@@ -588,7 +588,7 @@ select option,
 }
 
 .btn {
-  background: #304CFD;
+  background: #330044;
   border-radius: 20px;
   border: 0;
   color: #fff;
@@ -659,7 +659,7 @@ button:focus {
   width: 100%;
 }
 .preloader__progress span {
-  background: #304CFD;
+  background: #330044;
   position: absolute;
   top: 0;
   left: 0;
@@ -846,7 +846,7 @@ button:focus {
   text-decoration: none;
 }
 .header__social a:hover {
-  color: #304CFD;
+  color: #330044;
 }
 @media only screen and (max-width: 991px) {
   .header__social {
@@ -1163,7 +1163,7 @@ button:focus {
   }
 }
 .nav__item a.active {
-  background: #304CFD;
+  background: #330044;
   color: #fff;
 }
 .nav__item a.active:hover {
@@ -1173,14 +1173,14 @@ button:focus {
   .nav__item a.active {
     background: none;
     box-shadow: none;
-    color: #304CFD;
+    color: #330044;
   }
   .nav__item a.active:hover {
-    color: #304CFD;
+    color: #330044;
   }
   .nav__item a.active::before {
     content: '';
-    background-color: #304CFD;
+    background-color: #330044;
     height: 0.125rem;
     position: absolute;
     bottom: -0.5rem;
@@ -1574,7 +1574,7 @@ button:focus {
     cursor: pointer;
   }
   .select ul li:hover {
-    background-color: #304CFD;
+    background-color: #330044;
   }
   .select ul li:hover a {
     color: #fff;
@@ -1984,7 +1984,7 @@ button:focus {
   }
 }
 .comment-box__footer li:hover {
-  color: #304CFD;
+  color: #330044;
 }
 .comment-box__footer li:last-child {
   margin-right: 0;
@@ -2079,7 +2079,7 @@ button:focus {
   font-size: 1.1875rem;
 }
 .comment-form .icon-smile:hover {
-  color: #304CFD;
+  color: #330044;
 }
 
 .emoji-wrap {
@@ -2099,7 +2099,7 @@ button:focus {
 }
 
 .scroll-line {
-  background: #304CFD;
+  background: #330044;
   height: 0.1875rem;
   position: fixed;
   top: 0;
@@ -2135,7 +2135,7 @@ button:focus {
   text-decoration: none;
 }
 .social-auth .font-icon {
-  background-color: #304CFD;
+  background-color: #330044;
   border-radius: 50%;
   font-size: 0.75rem;
   padding: 0.375rem;
@@ -2241,7 +2241,7 @@ button:focus {
   }
 }
 .swiper-pagination-bullet-active {
-  background: #304CFD;
+  background: #330044;
   width: 1.25rem;
 }
 @media only screen and (max-width: 580px) {
@@ -2281,7 +2281,7 @@ button:focus {
 }
 .timeline__item::before {
   content: '';
-  background-color: #304CFD;
+  background-color: #330044;
   border-radius: 50%;
   position: absolute;
   top: 0;
