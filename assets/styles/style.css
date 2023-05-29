@@ -356,7 +356,7 @@ iframe {
 .form-control, .textarea, select,
 .custom-select {
   background-color: #F7F9FA;
-  border: 2px solid #F7F9FA;
+  border: 2px solid #060606;
   border-radius: 1.25rem;
   box-shadow: none;
   color: #5E6E80;
@@ -451,14 +451,14 @@ iframe {
 }
 
 .with-errors {
-  color: #FF3D57;
+  color: #060606;
 }
 
 .has-error input,
 .has-error textarea,
 .has-error input:focus,
 .has-error textarea:focus {
-  border-color: #FF3D57;
+  border-color: #050505;
 }
 
 #validator-contact {
