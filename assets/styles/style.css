@@ -910,7 +910,7 @@ button:focus {
   }
 }
 .box__border {
-  border: 2px solid #EBF0F2;
+  border: 2px solid #000000;
   border-radius: 20px;
 }
 @media only screen and (max-width: 580px) {
