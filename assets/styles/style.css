@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 1;
 }
 .title__separate::after {
-  background-color: #FF965D;
+  background-color: #ffc107;
   width: 1rem;
 }
 @media only screen and (max-width: 580px) {
@@ -1674,7 +1674,7 @@ button:focus {
   z-index: 2;
 }
 .news-item__date {
-  background-color: #FF965D;
+  background-color: #ffc107;
   color: #fff;
   border-radius: 20px 0 20px 0;
   font-size: 1.375rem;
