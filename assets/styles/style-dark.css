@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .title__separate::before {
-  background-color: #0D86FF;
+  background-color: #4d0066;
 }
 
 .overhead {
@@ -80,14 +80,14 @@ iframe {
 }
 
 .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
-  border-color: #0D86FF;
+  border-color: #4d0066;
 }
 .custom-control-input:not(:disabled):active ~ .custom-control-label::before {
   border-color: #fff;
 }
 .custom-control-input:checked ~ .custom-control-label::before {
-  border-color: #0D86FF;
-  background-color: #0D86FF;
+  border-color: #4d0066;
+  background-color: #4d0066;
 }
 
 .custom-control-label::before {
@@ -135,7 +135,7 @@ select option,
 }
 
 .btn {
-  background:#0055FF;
+  background:#330044;
   color: #FCFCFC;
 }
 .btn:hover {
@@ -152,11 +152,11 @@ select option,
   background: #1D1E24;
 }
 .preloader__progress span {
-  background: #0D86FF;
+  background: #4d0066;
 }
 
 .circle-pulse__1 {
-  background-color: #0D86FF;
+  background-color: #4d0066;
 }
 
 .circle-pulse__2 {
@@ -177,7 +177,7 @@ select option,
   color: #93959C;
 }
 .header__social a:hover {
-  color: #0D86FF;
+  color: #4d0066;
 }
 .header__contact {
   color: #FCFCFC;
@@ -218,7 +218,7 @@ select option,
   color: #AEB0B8;
 }
 .nav__item a:hover {
-  color: #0D86FF;
+  color: #4d0066;
 }
 @media only screen and (max-width: 580px) {
   .nav__item a {
@@ -226,7 +226,7 @@ select option,
   }
 }
 .nav__item a.active {
-  background:  #0055FF;
+  background:  #330044;
   color: #FCFCFC;
 }
 .nav__item a.active:hover {
@@ -235,13 +235,13 @@ select option,
 @media only screen and (max-width: 580px) {
   .nav__item a.active {
     background: none;
-    color: #0D86FF;
+    color: #4d0066;
   }
   .nav__item a.active:hover {
-    color: #0D86FF;
+    color: #4d0066;
   }
   .nav__item a.active::before {
-    background-color: #0D86FF;
+    background-color: #4d0066;
   }
 }
 
@@ -272,15 +272,15 @@ select option,
   color: #FCFCFC;
 }
 .comment-box__footer li:hover {
-  color: #0D86FF;
+  color: #4d0066;
 }
 
 .comment-form .icon-smile:hover {
-  color: #0D86FF;
+  color: #4d0066;
 }
 
 .scroll-line {
-  background: #0D86FF;
+  background: #4d0066;
 }
 
 .nicescroll-cursors {
@@ -306,7 +306,7 @@ select option,
   background: #33363D;
 }
 .swiper-pagination-bullet-active {
-  background: #0D86FF;
+  background: #4d0066;
 }
 
 /* -----------------------------------------------------------------
@@ -334,7 +334,7 @@ select option,
     color: #AEB0B8;
   }
   .select ul li:hover {
-    background-color: #0D86FF;
+    background-color: #4d0066;
   }
   .select ul li:hover a {
     color: #FCFCFC;
@@ -360,7 +360,7 @@ select option,
   border-color: #33363D;
 }
 .timeline__item::before {
-  background-color: #0D86FF;
+  background-color: #4d0066;
 }
 .timeline__period {
   color: rgba(174, 176, 184, 0.7);
@@ -371,7 +371,7 @@ select option,
   background-color: #2E2F36;
 }
 .progress-bar {
-  background: #0055FF;
+  background: #330044;
 }
 
 /* -----------------------------------------------------------------
