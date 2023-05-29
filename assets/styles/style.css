@@ -918,18 +918,21 @@ button:focus {
 @media only screen and (max-width: 580px) {
   .box__border {
     border-radius: 13.3333333333px;
+    border: 2px solid #060606;
     padding: 1rem;
   }
 }
 
 @media only screen and (max-width: 991px) {
   .box-content {
+    border: 2px solid #060606;
     border-radius: 0 0 20px 20px;
   }
 }
 @media only screen and (max-width: 580px) {
   .box-content {
     border-radius: 13.3333333333px;
+    border: 2px solid #060606;
   }
 }
 
