@@ -135,7 +135,7 @@ select option,
 }
 
 .btn {
-  background:#0055FF;
+  background:#330044;
   color: #FCFCFC;
 }
 .btn:hover {
@@ -160,7 +160,7 @@ select option,
 }
 
 .circle-pulse__2 {
-  background-color: rgba(13, 134, 255, 0.7);
+  background-color: rgba(44, 6, 82, 0.7);
 }
 
 /* -----------------------------------------------------------------
@@ -226,7 +226,7 @@ select option,
   }
 }
 .nav__item a.active {
-  background:  #0055FF;
+  background:  #330044;
   color: #FCFCFC;
 }
 .nav__item a.active:hover {
