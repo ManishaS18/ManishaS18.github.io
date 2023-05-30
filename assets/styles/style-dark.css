@@ -190,7 +190,7 @@ select option,
   background-color: #23262B;
 }
 .box__border {
-  border-color: #33363D;
+  border-color: #ffffff;
 }
 
 .social__link {
@@ -201,7 +201,7 @@ select option,
     - Cases
 ----------------------------------------------------------------- */
 .case-item {
-  border-color: #33363D;
+  border-color: #ffffff;
 }
 
 /* -----------------------------------------------------------------
@@ -209,7 +209,7 @@ select option,
 ----------------------------------------------------------------- */
 @media only screen and (max-width: 991px) {
   .sidebar {
-    border-color: #33363D;
+    border-color: #ffffff;
   }
 }
 
