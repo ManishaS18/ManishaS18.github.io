@@ -80,7 +80,7 @@ iframe {
 }
 
 .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
-  border-color: #0D86FF;
+  border-color: #ffffff;
 }
 .custom-control-input:not(:disabled):active ~ .custom-control-label::before {
   border-color: #fff;
@@ -104,10 +104,10 @@ select option,
   color: #AEB0B8;
 }
 .dropdown-menu::before {
-  border-top: 0.375rem solid #33363D;
+  border-top: 0.375rem solid #ffffff;
 }
 .dropdown.dropup .dropdown-menu::before {
-  border-top: 0.375rem solid #33363D;
+  border-top: 0.375rem solid #ffffff;
 }
 
 .tooltip-inner {
@@ -357,7 +357,7 @@ select option,
     - Timeline
 ----------------------------------------------------------------- */
 .timeline__item {
-  border-color: #33363D;
+  border-color: #ffffff;
 }
 .timeline__item::before {
   background-color: #0D86FF;
